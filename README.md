@@ -10,3 +10,4 @@
 # Une fonction en Python est executée lors de chaque appel.
 
 # Un dictionnaire est un ensemble d'associations clé, valeurs séparées par deux points.
+# Les ensembles (sets)
