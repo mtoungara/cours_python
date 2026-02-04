@@ -1,0 +1,4 @@
+notre_poeme = open("lire_ecrire_file.txt", "r")
+
+lignes = notre_poeme.read()
+print(lignes)

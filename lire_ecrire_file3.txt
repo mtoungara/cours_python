@@ -1,0 +1,7 @@
+notre_poeme = open('lire_ecrire_file.txt', 'r')
+
+ligne = notre_poeme.readline()
+while ligne != "":
+    print(ligne)
+    ligne = notre_poeme.readline()  
+    

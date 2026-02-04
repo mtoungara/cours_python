@@ -1,0 +1,6 @@
+fichier = open('file_test.txt', 'a', encoding = 'utf-8')
+nbre1 = fichier.write("\n 1234567890 \n")
+nbre2 = fichier.write(str(897654321987654321))
+
+ 1234567890 
+897654321987654321
